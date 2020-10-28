@@ -13,7 +13,7 @@ Mas **atenção**, você precisará exibir os empreendimentos de acordo com algu
 
 Aqui vão algumas informações relevantes:
 
-- Acesse a API [clicando aqui](#), ela já é _CORS ready_.
+- O endereço da API é [`https://static-content.bivilabs.com.br/challenges/products.json`](https://static-content.bivilabs.com.br/challenges/products.json), ela já é _CORS ready_.
 - Seja fiel ao _layout_ que [pode ser acessado aqui](https://xd.adobe.com/view/190d017b-e1a3-48f1-bdb0-e707a34e4b8d-4c5e/screen/38ba68f1-cff1-4a19-aaa9-01684b87a65e/).
 - Na hora de usar CSS, escolha o seu pré (ou pós) processador preferido (ou não).
 - Testes automatizados são desejáveis, sejam unitários, de integração ou ponta a ponta.
