@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Liniee",
+      "photos": [
+        "...jpg",
+        "...jpg",
+        "...jpg"
+      ],
+      "address": {
+        "city": "Ribeirão Preto - SP",
+        "district": "Jardim Olhos D'Água",
+        "geoLocation": {
+          "latitude": -47.11111,
+          "longitude": -26.22222
+        }
+      },
+      "units": {
+        "usableAreas": [20, 30, 40],
+        "en_suites": 3
+      }
+    }
+  ]
+}
