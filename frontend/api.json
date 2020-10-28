@@ -1,23 +1,477 @@
 {
   "products": [
     {
+      "name": "Mozaic",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/14499/B_M_SAUNA_COM_VISTA_PISCINA_EF_web.jpg",
+        "https://www.bild.com.br/uploads/photo/file/14497/B_M_PISCINA_ANGULO_RAIA_EF_web.jpg",
+        "https://www.bild.com.br/uploads/photo/file/14498/B_M_PORTICO_EF_web.jpg",
+        "https://www.bild.com.br/uploads/photo/file/14463/B_M_FAMILYCLUB_EF_web.jpg"
+      ],
+      "address": {
+        "city": "Uberlândia - MG",
+        "district": "Jardim Sul",
+        "geo_location": {
+          "latitude": -18.9634,
+          "longitude": -48.2715
+        }
+      },
+      "units": {
+        "en_suites": [1, 2, 3],
+        "usable_areas": [93, 100]
+      }
+    },
+    {
+      "name": "Moove",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/14165/PISCINA-min.jpg",
+        "https://www.bild.com.br/uploads/photo/file/14162/LOUNGE_l_B-MARKET-min.jpg",
+        "https://www.bild.com.br/uploads/photo/file/14164/GRILL-min.jpg",
+        "https://www.bild.com.br/uploads/photo/file/14169/ESPA%C3%87O_GOURMET-min.jpg"
+      ],
+      "address": {
+        "city": "Araraquara - SP",
+        "district": "São Geraldo",
+        "geo_location": {
+          "latitude": -21.7816,
+          "longitude": -48.1902
+        }
+      },
+      "units": {
+        "en_suites": [1, 2],
+        "usable_areas": [59, 63, 65, 67, 68, 77]
+      }
+    },
+    {
+      "name": "Inside",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/14117/PISCINA-min.jpg",
+        "https://www.bild.com.br/uploads/photo/file/14118/LOBBY-min.jpg",
+        "https://www.bild.com.br/uploads/photo/file/14121/CHURRASQUEIRA-min.jpg",
+        "https://www.bild.com.br/uploads/photo/file/14123/BRINQUEDOTECA-min.jpg"
+      ],
+      "address": {
+        "city": "Bauru - SP",
+        "district": "Jardim Auri Verde",
+        "geo_location": {
+          "latitude": -22.3363,
+          "longitude": -49.0456
+        }
+      },
+      "units": {
+        "en_suites": [2, 3],
+        "usable_areas": [64, 76]
+      }
+    },
+    {
+      "name": "Kairós",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/14068/B_OD_PISCINA_RAIA_EF-min.jpg",
+        "https://www.bild.com.br/uploads/photo/file/14078/B_OD_PORTICO_FACHADA_EF-min.jpg",
+        "https://www.bild.com.br/uploads/photo/file/14072/B_OD_SALA_ESTAR_EF-min.jpg",
+        "https://www.bild.com.br/uploads/photo/file/14070/B_OD_VARANDA_GOURMET_EF-min.jpg"
+      ],
+      "address": {
+        "city": "Ribeirão Preto - SP",
+        "district": "Jardim Olhos D'Agua",
+        "geo_location": {
+          "latitude": -21.2373,
+          "longitude": -47.8082
+        }
+      },
+      "units": {
+        "en_suites": 4,
+        "usable_areas": [151, 197]
+      }
+    },
+    {
+      "name": "Lívit",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/13133/PISCINA_01.jpg",
+        "https://www.bild.com.br/uploads/photo/file/13134/PORTICO_DE_ENTRADA.jpg",
+        "https://www.bild.com.br/uploads/photo/file/13135/VARANDA.jpg"
+      ],
+      "address": {
+        "city": "Ribeirão Preto - SP",
+        "district": "Jardim Olhos D'Água"
+      },
+      "units": {
+        "en_suites": [1, 2, 3],
+        "usable_areas": 113
+      }
+    },
+    {
+      "name": "Sou",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/13129/EXT_PISCINA.jpeg",
+        "https://www.bild.com.br/uploads/photo/file/13132/INT_FESTAS.jpeg"
+      ],
+      "address": {
+        "city": "Franca - SP",
+        "district": "Núcleo Alpha 4",
+        "geo_location": {
+          "latitude": -20.5652,
+          "longitude": -47.4045
+        }
+      },
+      "units": {
+        "en_suites": [1, 2, 3],
+        "usable_areas": [10, 74]
+      }
+    },
+    {
+      "name": "Vizzi",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/12804/IMA-BILD_VIZZI-PORTARIA-ALTA.jpg",
+        "https://www.bild.com.br/uploads/photo/file/12802/IMA-BILD_VIZZI-PISCINA_ADULTO_COM_DECK_MOLHADO_E_SOLARIUM_-ALTA.jpg",
+        "https://www.bild.com.br/uploads/photo/file/12803/IMA-BILD_VIZZI-LIVING_APTO-ALTA.jpg"
+      ],
+      "address": {
+        "city": "Campinas - SP",
+        "district": "Guanabara",
+        "geo_location": {
+          "latitude": -22.8862,
+          "longitude": -47.0603
+        }
+      },
+      "units": {
+        "en_suites": [2, 3],
+        "usable_areas": 8
+      }
+    },
+    {
+      "name": "Auten",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/12737/B_BV_PISCINA_EF.jpg",
+        "https://www.bild.com.br/uploads/photo/file/12738/B_BV_CHURRASQUEIRA_EF.jpg"
+      ],
+      "address": {
+        "city": "Uberlândia - MG",
+        "district": "Jardim Sul",
+        "geo_location": {
+          "latitude": -18.9636,
+          "longitude": -48.2719
+        }
+      },
+      "units": {
+        "en_suites": [2],
+        "usable_areas": 81
+      }
+    },
+    {
+      "name": "Navarro Home",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/12713/B_NA_PORTICO_EF_web.jpg",
+        "https://www.bild.com.br/uploads/photo/file/12712/B_NA_PISCINA_EF_web.jpg",
+        "https://www.bild.com.br/uploads/photo/file/12714/B_NA_SALA_AMPLIADA_EF_web.jpg",
+        "https://www.bild.com.br/uploads/photo/file/12708/B_NA_VARANDA_EF_web.jpg"
+      ],
+      "address": {
+        "city": "São José do Rio Preto - SP",
+        "district": "Nova Redentora",
+        "geo_location": {
+          "latitude": -20.8265,
+          "longitude": -49.3899
+        }
+      },
+      "units": {
+        "en_suites": [2, 3],
+        "usable_areas": 141
+      }
+    },
+    {
+      "name": "Mood",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/13526/PORTICO_DE_ENTRADA.jpg",
+        "https://www.bild.com.br/uploads/photo/file/11275/30._PISCINA_RECREATIVA.jpg"
+      ],
+      "address": {
+        "city": "Bauru - SP",
+        "district": "Vila Aviação",
+        "geo_location": {
+          "latitude": -22.3595,
+          "longitude": -49.0439
+        }
+      },
+      "units": {
+        "en_suites": [3, 2],
+        "usable_areas": [127]
+      }
+    },
+    {
       "name": "Liniee",
       "photos": [
-        "...jpg",
-        "...jpg",
-        "...jpg"
+        "https://www.bild.com.br/uploads/photo/file/11238/73_EXT04_PISCINA_HR.jpg",
+        "https://www.bild.com.br/uploads/photo/file/11244/73_INT09_VARANDA_HR-.jpg",
+        "https://www.bild.com.br/uploads/photo/file/11249/73_INT02_ESPACO_FESTAS_HR.jpg",
+        "https://www.bild.com.br/uploads/photo/file/11250/73_INT04_PUB_HR.jpg"
       ],
       "address": {
         "city": "Ribeirão Preto - SP",
         "district": "Jardim Olhos D'Água",
         "geo_location": {
-          "latitude": -47.11111,
-          "longitude": -26.22222
+          "latitude": null,
+          "longitude": null
         }
       },
       "units": {
-        "usable_areas": [20, 30, 40],
-        "en_suites": 3
+        "en_suites": [2, 3],
+        "usable_areas": [97.08, 126.02]
+      }
+    },
+    {
+      "name": "Tayga",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/11212/72_EXT05_PISCINA_RECREATIVA_PE.jpg",
+        "https://www.bild.com.br/uploads/photo/file/11236/72_EXT09_DETALHE_FACHADA_PE-.jpg"
+      ],
+      "address": {
+        "city": "Ribeirão Preto - SP",
+        "district": "Jardim Olhos D'Agua",
+        "geo_location": {
+          "latitude": null,
+          "longitude": null
+        }
+      },
+      "units": {
+        "en_suites": [3, 4],
+        "usable_areas": [254, 298]
+      }
+    },
+    {
+      "name": "Sirius Vertical Houses",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/10853/EXT_PISCINA.jpg"
+      ],
+      "address": {
+        "city": "Franca - SP",
+        "district": "Residencial Amazonas",
+        "geo_location": {
+          "latitude": -20.5525,
+          "longitude": -47.4154
+        }
+      },
+      "units": {
+        "en_suites": [],
+        "usable_areas": 245
+      }
+    },
+    {
+      "name": "L'Harmonie",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/9069/f488910a-7511-4398-9e76-bf7f77450785.jpg",
+        "https://www.bild.com.br/uploads/photo/file/9070/SALA_AMPLIADA.jpg",
+        "https://www.bild.com.br/uploads/photo/file/9071/QUARTO.jpg"
+      ],
+      "address": {
+        "city": "Araraquara - SP",
+        "district": "Vila Harmonia",
+        "geo_location": {
+          "latitude": -21.7646,
+          "longitude": -48.1777
+        }
+      },
+      "units": {
+        "en_suites": [2, 3],
+        "usable_areas": [70, 92]
+      }
+    },
+    {
+      "name": "Solo",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/9068/19e54319-fbbb-4269-a199-df080489a581.jpg",
+        "https://www.bild.com.br/uploads/photo/file/9077/EXT09_OPEN_LOUNGE_HR.jpg",
+        "https://www.bild.com.br/uploads/photo/file/9078/INT12_LIVING_PE2.jpg"
+      ],
+      "address": {
+        "city": "Ribeirão Preto - SP",
+        "district": "Quinta da Primavera",
+        "geo_location": {
+          "latitude": -21.2334,
+          "longitude": -47.7911
+        }
+      },
+      "units": {
+        "en_suites": [2, 3],
+        "usable_areas": [78.3, 61.55, 63.03]
+      }
+    },
+    {
+      "name": "Vert Residence",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/9067/4a80fe41-835b-4ed7-8ffb-544f4f3dfa3d.jpg",
+        "https://www.bild.com.br/uploads/photo/file/9075/SALA_E_VARANDA_INTEGRADA.jpeg",
+        "https://www.bild.com.br/uploads/photo/file/9076/VARANDA.jpeg"
+      ],
+      "address": {
+        "city": "Franca - SP",
+        "district": "Residencial Amazonas",
+        "geo_location": {
+          "latitude": -20.5541,
+          "longitude": -47.4156
+        }
+      },
+      "units": {
+        "en_suites": [2, 3],
+        "usable_areas": 110.19
+      }
+    },
+    {
+      "name": "Monet",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/9066/1fd07271-af7b-456e-a82a-1a5db406e809.png",
+        "https://www.bild.com.br/uploads/photo/file/9073/27_SALA_AMPLIADA_HR.jpg",
+        "https://www.bild.com.br/uploads/photo/file/9074/28_VARANDA_HR.jpg"
+      ],
+      "address": {
+        "city": "Araraquara - SP",
+        "district": "Centro",
+        "geo_location": {
+          "latitude": -21.7846,
+          "longitude": -48.1787
+        }
+      },
+      "units": {
+        "en_suites": [0, 3, 4],
+        "usable_areas": 124
+      }
+    },
+    {
+      "name": "Visage",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/9065/9004486b-4374-4290-9ee0-e7e6752f2fcf.png",
+        "https://www.bild.com.br/uploads/photo/file/9085/INT05_PUB_PE-min.jpg",
+        "https://www.bild.com.br/uploads/photo/file/9086/INT17_LIVING_B_HR-min.jpg"
+      ],
+      "address": {
+        "city": "Franca - SP",
+        "district": "Residencial Paraíso",
+        "geo_location": {
+          "latitude": -20.5647,
+          "longitude": -47.4044
+        }
+      },
+      "units": {
+        "usable_areas": 83
+      }
+    },
+    {
+      "name": "Mirah",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/9064/99059512-0c5d-45f3-b302-9224fbfe8287.png",
+        "https://www.bild.com.br/uploads/photo/file/9099/30_SALA_AMPLIADA_HR-min.jpg",
+        "https://www.bild.com.br/uploads/photo/file/9100/33_SUITE_CASAL_HR-min.jpg"
+      ],
+      "address": {
+        "city": "Bauru - SP",
+        "district": "Vila Aviação",
+        "geo_location": {
+          "latitude": -22.3555,
+          "longitude": -49.0498
+        }
+      },
+      "units": {
+        "en_suites": [4, 3],
+        "usable_areas": 159
+      }
+    },
+    {
+      "name": "Perspective",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/9063/c637e7ec-5755-4839-b073-939377bcb643.jpg",
+        "https://www.bild.com.br/uploads/photo/file/9083/EXT10_PISCINA_RECREATIVA_HR.jpeg",
+        "https://www.bild.com.br/uploads/photo/file/9084/INT14_SUITE_PE-min.jpg"
+      ],
+      "address": {
+        "city": "Ribeirão Preto - SP",
+        "district": "Jardim Olhos D'Agua",
+        "geo_location": {
+          "latitude": -21.2374,
+          "longitude": -47.8076
+        }
+      },
+      "units": {
+        "en_suites": [0, 3, 4],
+        "usable_areas": 158.19
+      }
+    },
+    {
+      "name": "La Vie",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/9062/ffde1789-e245-4a25-867a-061487322ad3.png",
+        "https://www.bild.com.br/uploads/photo/file/9081/15_-_Living_Ampliado__perspectiva_ilustrada_.jpg",
+        "https://www.bild.com.br/uploads/photo/file/9082/16_-_Sala__perspectiva_ilustrada_.jpg"
+      ],
+      "address": {
+        "city": "Araraquara - SP",
+        "district": "Altos dos Jaraguás",
+        "geo_location": {
+          "latitude": -21.7826,
+          "longitude": -48.1936
+        }
+      },
+      "units": {
+        "en_suites": [0, 1, 2],
+        "usable_areas": 63
+      }
+    },
+    {
+      "name": "Duo Residence Club",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/9061/1a6a4510-3982-4c50-aadc-6772cc021bd4.jpg",
+        "https://www.bild.com.br/uploads/photo/file/9093/EXT09_PISCINA_PE-min.jpg",
+        "https://www.bild.com.br/uploads/photo/file/9094/INT12_VARANDA_PE.jpg"
+      ],
+      "address": {
+        "city": "Bauru - SP",
+        "district": "Vila Aviação",
+        "geo_location": {
+          "latitude": -22.3554,
+          "longitude": -49.0469
+        }
+      },
+      "units": {
+        "en_suites": 4,
+        "usable_areas": 84
+      }
+    },
+    {
+      "name": "Trend Residence Club",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/9060/034b66eb-6fbd-4351-b3e1-024693073ca9.png"
+      ],
+      "address": {
+        "city": "Ribeirão Preto - SP",
+        "district": "Nova Ribeirânia",
+        "geo_location": {
+          "latitude": -21.1975,
+          "longitude": -47.7786
+        }
+      },
+      "units": {
+        "en_suites": 2,
+        "usable_areas": 74
+      }
+    },
+    {
+      "name": "Hub",
+      "photos": [
+        "https://www.bild.com.br/uploads/photo/file/9059/d49c0eec-b939-4212-9af1-f7b6da6e078c.jpg",
+        "https://www.bild.com.br/uploads/photo/file/9115/12.hub-ribeir%C3%A3o-preto-apartamento-sala-estar.jpg",
+        "https://www.bild.com.br/uploads/photo/file/9117/09.hub-ribeir%C3%A3o-preto-apartamento-piscina-com-solarium.jpg",
+        "https://www.bild.com.br/uploads/photo/file/9119/14.hub-ribeir%C3%A3o-preto-apartamento-quarto.jpg"
+      ],
+      "address": {
+        "city": "Ribeirão Preto - SP",
+        "district": "Ribeirânia",
+        "geo_location": {
+          "latitude": -21.2009,
+          "longitude": -47.7679
+        }
+      },
+      "units": {
+        "en_suites": 0,
+        "usable_areas": [58]
       }
     }
   ]

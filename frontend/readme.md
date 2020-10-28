@@ -6,9 +6,10 @@ O desafio consiste em desenvolver um pequeno projeto utilizando JavaScript com u
 
 Mas **atenção**, você precisará exibir os empreendimentos de acordo com algumas **regras de negócio**:
 
-1. Empreendimentos sem geolocalização (chave `geo_location`) deverão ser desconsiderados.
-2. A informação "localização privilegiada" deverá ser exibida apenas quando o empreendimento estiver dentro do _bounding box_: `[[-47.857, -21.269], [-47.780, -21.211]]`.
-3. Um empreendimento pode conter mais de um valor de área útil (chave `usable_areas`), mas o mesmo deve ser desconsiderado da lista quando ao menos um dos valores for menor ou igual a 10.
+1. Empreendimentos sem geolocalização (chave `geo_location`) ou com valores nulos deverão ser desconsiderados.
+2. A informação "localização privilegiada" deverá ser exibida apenas quando o empreendimento estiver dentro do _bounding box_: `[[-21.269, -47.857], [-21.211, -47.780]]`.
+3. Um empreendimento pode conter mais de um valor de área útil dos apartamentos (chave `usable_areas`), mas o mesmo deve ser desconsiderado da lista quando ao menos um dos valores for menor ou igual a 10.
+4. Não exibir o número de suítes (chave `en_suites`) caso não existam valores. Também não exibir apenas o valor que seja menor do que 1, isto é, quando [0, 1, 2] exibir apenas "1 e 2".
 
 Aqui vão algumas informações relevantes:
 
