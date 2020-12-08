@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Grupo_13" data-name="Grupo 13" transform="translate(-1505 -1435)">
+    <g id="map-pin" transform="translate(1508 1439)">
+      <path id="Caminho_6" data-name="Caminho 6" d="M15.108,7.054c0,4.709-6.054,8.744-6.054,8.744S3,11.762,3,7.054a6.054,6.054,0,1,1,12.108,0Z" fill="none" stroke="#ed7203" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle id="Elipse_4" data-name="Elipse 4" cx="2" cy="2" r="2" transform="translate(7.054 5.399)" fill="none" stroke="#ed7203" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <rect id="Retângulo_23" data-name="Retângulo 23" width="24" height="24" transform="translate(1505 1435)" fill="none"/>
+  </g>
+</svg>
